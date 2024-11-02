@@ -1,0 +1,37 @@
+/* src/Contact.css */
+
+body {
+  background-color: #f8f9fa; /* Light background for contrast */
+  color: #343a40; /* Dark text color for readability */
+  font-family: 'Arial', sans-serif; /* Clean font choice */
+}
+
+h2 {
+  color: #007bff; /* Bright heading color */
+  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+}
+
+.contact-info {
+  background-color: #ffffff; /* White background for contrast */
+  padding: 2rem; /* Padding for spacing */
+  border-radius: 10px; /* Rounded corners */
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1); /* Shadow for elevation */
+  margin-bottom: 2rem; /* Space below contact info */
+}
+
+.contact-info h4 {
+  color: #007bff; /* Consistent heading color */
+  margin-bottom: 1rem; /* Space below heading */
+}
+
+.contact-info p {
+  margin-bottom: 0.5rem; /* Space below paragraphs */
+}
+
+.form-control {
+  border-radius: 5px; /* Rounded corners for input fields */
+}
+
+button {
+  border-radius: 5px; /* Rounded corners for buttons */
+}
